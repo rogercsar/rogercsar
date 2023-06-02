@@ -7,6 +7,10 @@ I'm from Brasil
 I’m currently self-teaching myself about programming in general.
 Working as a Frontend Software Engineer building applications with Typescript, ReactJS and NextJS.
 
+## Estou aprendendo
+
+<img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fthexcodes.com%2Fconceitos-reactjs&psig=AOvVaw1kYaY-0nGE3kLuyOJyAs0V&ust=1685796434435000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj77J7PpP8CFQAAAAAdAAAAABAE" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
 
 ## Contatos:
 
