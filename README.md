@@ -8,10 +8,12 @@ Working as a Frontend Software Engineer building applications with Javascript, R
 
 
 ## ➤ Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,java,mysql,py,react)](https://skillicons.dev)
+
+## ➤ Tools:
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,figma,github,unity,unreal,eclipse,arduino)](https://skillicons.dev)
 
 ## ➤ Contatos
-
 <div>
 <a href="https://instagram.com/rogercesaroficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
