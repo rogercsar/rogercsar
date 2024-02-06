@@ -2,9 +2,15 @@
 Software Engineer
 
 ## ➤ About me
-I'm from Brasil
-I’m currently self-teaching myself about programming in general.
-Working as a Frontend Software Engineer building applications with Javascript, ReactJS and NextJS.
+° I'm from Brasil
+° I’m currently self-teaching myself about programming in general. 
+  Working as a Frontend Software Engineer building applications with multplatforms.
+
+° Analyst of Cybersecurity.
+
+° Linux/*UNIX lover.
+
+° Music as a Hobby (and what hobby!).
 
 
 ## ➤ Languages & Frameworks:
