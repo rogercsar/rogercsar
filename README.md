@@ -2,18 +2,18 @@
 Software Engineer
 
 ## ➤ About me
-- I'm from Brasil
+- I'm from **_Brasil_**.
 
-- I’m currently self-teaching myself about programming in general since 2010. 
+- I’m currently self-teaching myself about programming in general **_since 2010_**. 
   Working as a Frontend Software Engineer building applications multplatforms.
   Whether working on projects or refactoring legacy codebases, I take pride in my ability to build robust and maintainable code that is easy to test and deploy. 
   I am confident in my ability to deliver outstanding results and take on new and exciting challenges in software development.
 
 - Analyst of Cybersecurity.
 
-- Linux/*UNIX lover.
+- Linux/*UNIX **_lover_**.
 
-- Music as a Hobby (and what hobby!).
+- Music as a Hobby **_(and what hobby!)_**.
 
 
 ## ➤ Languages & Frameworks:
