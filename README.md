@@ -4,7 +4,9 @@ Software Engineer
 ## ➤ About me
 ° I'm from Brasil
 ° I’m currently self-teaching myself about programming in general. 
-  Working as a Frontend Software Engineer building applications with multplatforms.
+  Working as a Frontend Software Engineer building applications multplatforms.
+  Whether working on projects or refactoring legacy codebases, I take pride in my ability to build robust and maintainable code that is easy to test and deploy. 
+  I am confident in my ability to deliver outstanding results and take on new and exciting challenges in software development.
 
 ° Analyst of Cybersecurity.
 
