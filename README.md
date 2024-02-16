@@ -20,7 +20,7 @@ Software Engineer
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,c,cs,java,mysql,py)](https://skillicons.dev)
 
 ## ➤ Tools:
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,figma,github,unity,unreal,eclipse,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,mysql,figma,github,docker,unity,unreal,eclipse,arduino,visualstudio)](https://skillicons.dev)
 
 ## ➤ Contatos
 <div>
