@@ -17,7 +17,7 @@ Software Engineer
 
 
 ## ➤ Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,java,mysql,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,c,cs,java,mysql,py)](https://skillicons.dev)
 
 ## ➤ Tools:
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,figma,github,unity,unreal,eclipse,arduino)](https://skillicons.dev)
