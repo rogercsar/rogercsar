@@ -1,5 +1,5 @@
 ## ➤ Hi there 👋, I'm Roger
-Software Engineer
+Software Engineer and Data Analyst
 
 ## ➤ About me
 - I'm from **_Brasil_**.
