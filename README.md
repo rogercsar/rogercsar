@@ -17,10 +17,10 @@ Software Engineer
 
 
 ## ➤ Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,c,cs,java,mysql,py,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,js,html,css,react,ts,c,cs,java,dotnet)](https://skillicons.dev)
 
 ## ➤ Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,ai,github,docker,unity,unreal,eclipse,arduino,visualstudio,gmail,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,bi,figma,ai,github,docker,unity,unreal,eclipse,arduino,visualstudio,gmail,androidstudio)](https://skillicons.dev)
 
 ## ➤ SOs:
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,mint,ubuntu,apple,windows)](https://skillicons.dev)
