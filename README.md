@@ -1,15 +1,19 @@
 ## ➤ Hi there 👋, I'm Roger
-Software Engineer and Data Analyst
+Software Engineer | AI & Machine Learning | Robotics | Innovator & Researcher
 
 ## ➤ About me
+
 - I'm from **_Brasil_**.
 
-- I’m currently self-teaching myself about programming in general **_since 2010_**. 
-  Working as a Frontend Software Engineer building applications multplatforms.
-  Whether working on projects or refactoring legacy codebases, I take pride in my ability to build robust and maintainable code that is easy to test and deploy. 
-  I am confident in my ability to deliver outstanding results and take on new and exciting challenges in software development.
+- Com mais de 14 anos de experiência em Tecnologia da Informação, construí uma carreira sólida atuando como analista de TI, sistemas e banco de dados, sempre com foco em ferramentas  
+  open-source. Minha verdadeira paixão está na inovação, criatividade e ciência, especialmente nas áreas de robótica, automação e inteligência artificial. Essa combinação de interesses 
+  me impulsiona a buscar constantemente novos desafios e a desenvolver soluções que unam eficiência técnica a experiências únicas para o usuário, seja na web, desktops ou mobile.
 
-- Analyst of Cybersecurity.
+  Sou um eterno estudante de IA, programação, cibersegurança e ciência, sempre explorando novas tecnologias e abordagens com um desejo incessante de inovar. Contribuo de forma     
+  significativa para as equipes com as quais colaboro, com uma visão focada na prevenção, segurança e melhoria contínua. Além da tecnologia, minha inspiração pela música nutre minha 
+  criatividade, ajudando a trazer uma perspectiva inovadora para todos os projetos em que me envolvo.
+  
+- Passionate about Innovation & Science.
 
 - Linux/*UNIX **_lover_**.
 
