@@ -1,9 +1,7 @@
-## ➤ Hi there 👋, I'm Roger
+## ➤ Olá 👋, eu sou Roger
 Desenvolvedor Full Stack | JavaScript | Python | SQL
 
-## ➤ About me
-
-- I'm from **_Brasil_**.
+## ➤ Sobre mim
 
 - Sou um desenvolvedor full stack atuando com JavaScript, Python, SQL , dedicado a criar soluções inovadoras que integram diferentes tecnologias. 
 
@@ -11,21 +9,19 @@ Desenvolvedor Full Stack | JavaScript | Python | SQL
   significativa para as equipes com as quais colaboro, com uma visão focada na prevenção, segurança e melhoria contínua. Além da tecnologia, minha inspiração pela música nutre minha 
   criatividade, ajudando a trazer uma perspectiva inovadora para todos os projetos em que me envolvo.
   
-- Passionate about Innovation & Science.
+- Apaixonado por Inovação & Ciência.
 
 - Linux/*UNIX **_lover_**.
 
-- Music as a Hobby **_(and what hobby!)_**.
+- Músico por Hobby **_(e que hobby!)_**.
 
 
-## ➤ Languages & Frameworks:
+## ➤ Linguagens & Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,c,cs,java,dotnet)](https://skillicons.dev)
 
-## ➤ Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,ai,github,unity,unreal,eclipse,visualstudio,gmail,androidstudio)](https://skillicons.dev)
+## ➤ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,ai,github,unity,unreal,eclipse,visualstudio,gmail,androidstudio,arch,kali,linux,mint,ubuntu,apple,windows)](https://skillicons.dev)
 
-## ➤ SOs:
-[![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,mint,ubuntu,apple,windows)](https://skillicons.dev)
 
 ## ➤ Contatos
 <div>
