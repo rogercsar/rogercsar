@@ -3,7 +3,7 @@ Desenvolvedor Full Stack | JavaScript | Python | SQL
 
 ## ➤ Sobre mim
 
-- Sou um desenvolvedor full stack atuando com JavaScript, Python, SQL , dedicado a criar soluções inovadoras que integram diferentes tecnologias. 
+- Sou um desenvolvedor full stack dedicado a criar soluções inovadoras que integram diferentes tecnologias. 
 
   Sou um eterno estudante de programação, IA, cibersegurança e ciência, sempre explorando novas tecnologias e abordagens com um desejo incessante de inovar. Contribuo de forma     
   significativa para as equipes com as quais colaboro, com uma visão focada na prevenção, segurança e melhoria contínua. Além da tecnologia, minha inspiração pela música nutre minha 
@@ -17,7 +17,7 @@ Desenvolvedor Full Stack | JavaScript | Python | SQL
 
 
 ## ➤ Linguagens & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,html,css,c,cs,java,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,js,ts,html,css,c,cs,java,dotnet)](https://skillicons.dev)
 
 ## ➤ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,arduino,ai,github,unity,unreal,eclipse,visualstudio,gmail,androidstudio,arch,kali,linux,mint,ubuntu,apple,windows)](https://skillicons.dev)
